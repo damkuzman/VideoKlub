@@ -1,0 +1,106 @@
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\KlijentForme\bin\Debug\KlijentForme.exe
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\KlijentForme\bin\Debug\KlijentForme.pdb
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Properties.Resources.resources
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.exe
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.pdb
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Clan.ClanUnos.resources
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\bin\Debug\KontrolerI.dll
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\bin\Debug\KontrolerAL.dll
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\bin\Debug\KontrolerI.pdb
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\bin\Debug\KontrolerAL.pdb
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Clan.Pregled.resources
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Film.FilmUnos.resources
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Film.FilmPrikaz.resources
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Zaposleni.Login.resources
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.PocetnaForma.resources
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Zaduzenje.ZaduzenjeUnos.resources
+C:\Users\Dejan\Documents\Visual Studio 2010\Projects\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Zaduzenje.ZaduzenjePrikaz.resources
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.exe
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.pdb
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\bin\Debug\KlijentForme.exe
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\bin\Debug\KlijentForme.pdb
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\bin\Debug\KontrolerI.dll
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\bin\Debug\KontrolerAL.dll
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\bin\Debug\KontrolerI.pdb
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\bin\Debug\KontrolerAL.pdb
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Clan.ClanUnos.resources
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Clan.Pregled.resources
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Film.FilmPrikaz.resources
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Film.FilmUnos.resources
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.PocetnaForma.resources
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Properties.Resources.resources
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Zaduzenje.ZaduzenjePrikaz.resources
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Zaduzenje.ZaduzenjeUnos.resources
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.Zaposleni.Login.resources
+C:\Users\Arsa\Desktop\DusanSeminarski\KlijentForme\obj\x86\Debug\KlijentForme.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.exe
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.pdb
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\bin\Debug\KlijentForme.exe
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\bin\Debug\KlijentForme.pdb
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\bin\Debug\KontrolerI.dll
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\bin\Debug\KontrolerAL.dll
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\bin\Debug\KontrolerI.pdb
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\bin\Debug\KontrolerAL.pdb
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Clan.ClanUnos.resources
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Clan.Pregled.resources
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Film.FilmPrikaz.resources
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Film.FilmUnos.resources
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.PocetnaForma.resources
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Properties.Resources.resources
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Zaduzenje.ZaduzenjePrikaz.resources
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Zaduzenje.ZaduzenjeUnos.resources
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Zaposleni.Login.resources
+C:\Users\Arsa\Desktop\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.exe
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.pdb
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\bin\Debug\KlijentForme.exe
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\bin\Debug\KlijentForme.pdb
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\bin\Debug\KontrolerI.dll
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\bin\Debug\KontrolerAL.dll
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\bin\Debug\KontrolerI.pdb
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\bin\Debug\KontrolerAL.pdb
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Clan.ClanUnos.resources
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Clan.Pregled.resources
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Film.FilmPrikaz.resources
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Film.FilmUnos.resources
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.PocetnaForma.resources
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Properties.Resources.resources
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Zaduzenje.ZaduzenjePrikaz.resources
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Zaduzenje.ZaduzenjeUnos.resources
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Zaposleni.Login.resources
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.csproj.GenerateResource.Cache
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.exe
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.pdb
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\bin\Debug\KlijentForme.exe
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\bin\Debug\KlijentForme.pdb
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\bin\Debug\KontrolerI.dll
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\bin\Debug\KontrolerAL.dll
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\bin\Debug\KontrolerI.pdb
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\bin\Debug\KontrolerAL.pdb
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.csprojResolveAssemblyReference.cache
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Clan.ClanUnos.resources
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Clan.Pregled.resources
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Film.FilmPrikaz.resources
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Film.FilmUnos.resources
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.PocetnaForma.resources
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Properties.Resources.resources
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Zaduzenje.ZaduzenjePrikaz.resources
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Zaduzenje.ZaduzenjeUnos.resources
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.Zaposleni.Login.resources
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\KlijentForme\obj\x86\Debug\KlijentForme.csproj.GenerateResource.Cache

@@ -1,0 +1,35 @@
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\Broker\bin\Debug\Broker.dll
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\Broker\bin\Debug\Broker.pdb
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\Broker\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\Broker\obj\Debug\Broker.dll
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\Broker\obj\Debug\Broker.pdb
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\Broker\bin\Debug\BibliotekaKlasa.dll
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\Broker\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\DusanSeminarski\Broker\bin\Debug\Broker.dll
+C:\Users\Arsa\Desktop\DusanSeminarski\Broker\bin\Debug\Broker.pdb
+C:\Users\Arsa\Desktop\DusanSeminarski\Broker\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\DusanSeminarski\Broker\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\DusanSeminarski\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\DusanSeminarski\Broker\obj\Debug\Broker.dll
+C:\Users\Arsa\Desktop\DusanSeminarski\Broker\obj\Debug\Broker.pdb
+C:\Users\Arsa\Desktop\VideoKlub\Broker\bin\Debug\Broker.dll
+C:\Users\Arsa\Desktop\VideoKlub\Broker\bin\Debug\Broker.pdb
+C:\Users\Arsa\Desktop\VideoKlub\Broker\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\VideoKlub\Broker\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\VideoKlub\Broker\obj\Debug\Broker.dll
+C:\Users\Arsa\Desktop\VideoKlub\Broker\obj\Debug\Broker.pdb
+C:\Users\Arsa\Desktop\VideoKlub\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\Broker\bin\Debug\Broker.dll
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\Broker\bin\Debug\Broker.pdb
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\Broker\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\Broker\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\Broker\obj\Debug\Broker.dll
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\Broker\obj\Debug\Broker.pdb
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\Broker\bin\Debug\Broker.dll
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\Broker\bin\Debug\Broker.pdb
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\Broker\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\Broker\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\Broker\obj\Debug\Broker.dll
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\Broker\obj\Debug\Broker.pdb

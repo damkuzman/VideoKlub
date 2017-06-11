@@ -1,0 +1,24 @@
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\BibliotekaKlasa\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\BibliotekaKlasa\bin\Debug\BibliotekaKlasa.dll
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\BibliotekaKlasa\bin\Debug\BibliotekaKlasa.pdb
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.dll
+c:\users\dejan\documents\visual studio 2010\Projects\DusanSeminarski\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\DusanSeminarski\BibliotekaKlasa\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\DusanSeminarski\BibliotekaKlasa\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\DusanSeminarski\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\DusanSeminarski\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\VideoKlub\BibliotekaKlasa\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\VideoKlub\BibliotekaKlasa\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\VideoKlub\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\VideoKlub\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\VideoKlub\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\BibliotekaKlasa\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\BibliotekaKlasa\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.dll
+C:\Users\Arsa\Desktop\PSOktobar\VideoKlub\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.pdb
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\BibliotekaKlasa\bin\Debug\BibliotekaKlasa.dll
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\BibliotekaKlasa\bin\Debug\BibliotekaKlasa.pdb
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.csprojResolveAssemblyReference.cache
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.dll
+C:\Users\Adamjan\Desktop\Projekti\VideoKlub\BibliotekaKlasa\obj\Debug\BibliotekaKlasa.pdb

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7DEA9560-D7AF-4C70-98ED-36E723AE97EF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KlijentForme</RootNamespace>
+    <AssemblyName>KlijentForme</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clan\ClanUnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clan\ClanUnos.Designer.cs">
+      <DependentUpon>ClanUnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clan\Pregled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clan\Pregled.Designer.cs">
+      <DependentUpon>Pregled.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film\FilmPrikaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film\FilmPrikaz.Designer.cs">
+      <DependentUpon>FilmPrikaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Film\FilmUnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Film\FilmUnos.Designer.cs">
+      <DependentUpon>FilmUnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PocetnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PocetnaForma.Designer.cs">
+      <DependentUpon>PocetnaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="IzdavackaKuca\IzdavackaKucaUnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IzdavackaKuca\IzdavackaKucaUnos.Designer.cs">
+      <DependentUpon>IzdavackaKucaUnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zaduzenje\ZaduzenjePrikaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zaduzenje\ZaduzenjePrikaz.Designer.cs">
+      <DependentUpon>ZaduzenjePrikaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zaduzenje\ZaduzenjeUnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zaduzenje\ZaduzenjeUnos.Designer.cs">
+      <DependentUpon>ZaduzenjeUnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zaposleni\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zaposleni\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Clan\ClanUnos.resx">
+      <DependentUpon>ClanUnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clan\Pregled.resx">
+      <DependentUpon>Pregled.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film\FilmPrikaz.resx">
+      <DependentUpon>FilmPrikaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Film\FilmUnos.resx">
+      <DependentUpon>FilmUnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PocetnaForma.resx">
+      <DependentUpon>PocetnaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Zaduzenje\ZaduzenjePrikaz.resx">
+      <DependentUpon>ZaduzenjePrikaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zaduzenje\ZaduzenjeUnos.resx">
+      <DependentUpon>ZaduzenjeUnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zaposleni\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\BibliotekaKlasa\BibliotekaKlasa.csproj">
+      <Project>{2B2DAF66-3E4F-4AD0-AEC3-C5EC27E2277C}</Project>
+      <Name>BibliotekaKlasa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KontrolerI\KontrolerI.csproj">
+      <Project>{442DCD4E-B737-4067-9045-C8A457FDB61B}</Project>
+      <Name>KontrolerI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
